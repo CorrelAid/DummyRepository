@@ -6,29 +6,29 @@ This is a dummy repository which has the default structure of folders:
 project_repository 
 |	README.md 
 |	
-└─── data  
-	|	preparation_script1
+└───|data  
+  	|	preparation_script1
 	|	preparation_script2
 	|	data1.csv
 	|	data2.csv  
 |
-└─── analysis  
+└───|analysis  
 	|	analysis_script1
 	|	analysis_script2  
 |
-└─── figures 
+└───|figures 
 	|	figure1.png
 	|	figure2.png 
 |
-└─── tables  
+└───|tables  
 	|	table1.tex
 	|	table1.pdf
 |
-└─── notes  
+└───|notes  
 	|	note1.md
 	|	note2.md
 |
-└─── report
+└───|report
 	|	report.tex
 	|	report.pdf
 ```
